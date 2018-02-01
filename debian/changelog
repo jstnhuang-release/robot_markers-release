@@ -1,0 +1,17 @@
+ros-indigo-robot-markers (0.2.0-0trusty) trusty; urgency=high
+
+  * Added ability to filter markers to a set of links.
+  * Added website.
+  * Update README.md
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Wed, 31 Jan 2018 08:00:00 -0000
+
+ros-indigo-robot-markers (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial package creation.
+  * Contributors: Justin Huang
+
+ -- Justin Huang <jstn@cs.washington.edu>  Thu, 25 May 2017 07:00:00 -0000
+
+
