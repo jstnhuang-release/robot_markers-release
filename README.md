@@ -1,3 +1,26 @@
+## robot_markers (indigo) - 0.2.1-0
+
+The packages in the `robot_markers` repository were released into the `indigo` distro by running `/usr/bin/bloom-release robot_markers --rosdistro indigo --track indigo` on `Sat, 02 Jun 2018 04:35:31 -0000`
+
+The `robot_markers` package was released.
+
+Version of package(s) in repository `robot_markers`:
+
+- upstream repository: https://github.com/jstnhuang/robot_markers.git
+- release repository: https://github.com/jstnhuang-release/robot_markers-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## robot_markers (indigo) - 0.2.0-0
 
 The packages in the `robot_markers` repository were released into the `indigo` distro by running `/usr/bin/bloom-release robot_markers --track indigo --rosdistro indigo` on `Thu, 01 Feb 2018 02:01:29 -0000`
